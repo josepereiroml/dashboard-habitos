@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+pandas
+pytrends
+sqlalchemy
+streamlit
+plotly
+openpyxl
+lxml
